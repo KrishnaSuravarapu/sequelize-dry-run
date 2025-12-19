@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-dry-run",
+  "version": "1.0.0",
+  "description": "A tool to preview Sequelize migrations SQL queries without executing them",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "sequelize",
+    "migrations",
+    "dry-run",
+    "sql",
+    "preview",
+    "umzug"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrishnaSuravarapu/sequelize-dryrun.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "peerDependencies": {
+    "sequelize": ">=6.0.0",
+    "umzug": ">=3.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
