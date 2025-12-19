@@ -1,6 +1,6 @@
 {
   "name": "sequelize-dry-run",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to preview Sequelize migrations SQL queries without executing them",
   "main": "index.js",
   "types": "index.d.ts",
