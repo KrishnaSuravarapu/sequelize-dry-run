@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KrishnaSuravarapu/sequelize-dryrun.git"
+    "url": "https://github.com/KrishnaSuravarapu/sequelize-dry-run.git"
   },
   "engines": {
     "node": ">=14.0.0"
